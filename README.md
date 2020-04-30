@@ -1,3 +1,3 @@
 # CalcApp-training
 iOS Boot Camp　CalcApp  
-・classについて
+・classについて,initについて
